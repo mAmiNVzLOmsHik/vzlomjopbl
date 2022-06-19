@@ -126,4 +126,4 @@ def gameLoop():
  
  
 gameLoop()
-#made by ivan_hackerov1337@mail.ru
+#made by ivan_hakerov1337@mail.ru
